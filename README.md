@@ -1,4 +1,5 @@
 # Plesk2GDrive
+*This project is on hold until a working Google Drive for Linux command line is developed.*
 ####Plesk2GDrive: Simple to use Plesk Backup Script for Google Drive
 ```
 Usage: plesk2gdrive-backup.sh [-c day : Set day of week] [-d ID : Delete specific Backup] [-v : Verify settings] [-r : Performs Backup] [-l : Lists Backups] [-h : Detailed Help Page]
